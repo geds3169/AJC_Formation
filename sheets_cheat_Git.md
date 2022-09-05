@@ -15,12 +15,14 @@ git help branch
 
 ```shell
 # Identity Name
-git config --global user.name "aquelito"
+git config --global user.name "geds3169"
 # Identity Email
-git config --global user.email "axel@aquelito.fr"
+git config --global user.email "geds3169@guilhemetkarine@hotmail.fr"
 # Editor Tool
-git config --global core.editor subl
+git config --global core.editor "'C:/Program Files (x86)/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"  
+# or git config --global core.editor "\"c:\Program Files\Notepad++\notepad++.exe\" %*" or notepad or nsubl or vim
 # Diff Tool
+
 git config --global merge.tool filemerge
 ```
 
