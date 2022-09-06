@@ -1,0 +1,19 @@
+stages:
+
+
+build:
+  stage: build
+  script:
+
+  artifacts:
+    paths:
+
+
+RunGTest:
+  stage: test
+  script:
+
+
+RunCTest:
+  stage: test
+  script:
